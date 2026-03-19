@@ -1,0 +1,20 @@
+ID: TC001
+Title: Valid login
+
+Precondition:
+User exists
+
+Steps:
+1. Go to login page
+2. Enter valid username
+3. Enter valid password
+4. Click login
+
+Expected result:
+User is redirected to homepage
+
+Actual result:
+(To be filled after test)
+
+Status:
+Pass/Fail
